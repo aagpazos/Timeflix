@@ -1,0 +1,43 @@
+.mediaViewInfo {
+	--web-view-name: Splash Screen;
+	--web-view-id: Splash_Screen;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Splash_Screen;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Splash_Screen {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 360;
+	height: 640;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Splash Screen;
+	--web-view-id: Splash_Screen;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+#Logo {
+	position: absolute;
+	width: 285px;
+	height: 56px;
+	left: 38px;
+	top: 292px;
+	overflow: visible;
+}

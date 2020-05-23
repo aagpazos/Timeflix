@@ -1,0 +1,448 @@
+.mediaViewInfo {
+	--web-view-name: Registro – 1;
+	--web-view-id: Registro___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Registro___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Registro___1 {
+	position: absolute;
+	width: 360px;
+	height: 640px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Registro – 1;
+	--web-view-id: Registro___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+#Continue {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 507px;
+	overflow: visible;
+}
+.Rectangle_132 {
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#CONTINUE {
+	position: absolute;
+	left: 91px;
+	top: 13px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+.Rect_ngulo_1 {
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 23px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Registro {
+	position: absolute;
+	left: 62px;
+	top: 13px;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Campo_de_introducir {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 226px;
+	overflow: visible;
+}
+#inputs {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_123 {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#johndoe_mail_com {
+	position: absolute;
+	left: 53px;
+	top: 15px;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(127,132,136,1);
+}
+.Icon_awesome_user_alt {
+	overflow: visible;
+	position: absolute;
+	width: 13px;
+	height: 16px;
+	left: 22px;
+	top: 16px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_1 {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 291px;
+	overflow: visible;
+}
+#inputs_btw {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_123_btx {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#johndoe_mail_com_bty {
+	position: absolute;
+	left: 53px;
+	top: 15px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(127,132,136,1);
+}
+#key {
+	position: absolute;
+	width: 18px;
+	height: 19px;
+	left: 20px;
+	top: 15px;
+	overflow: visible;
+}
+#Grupo_3 {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 356px;
+	overflow: visible;
+}
+#Grupo_2 {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_123_bt {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#johndoe_mail_com_bt {
+	position: absolute;
+	left: 53px;
+	top: 15px;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(127,132,136,1);
+}
+.Icon_material_email {
+	overflow: visible;
+	position: absolute;
+	width: 17px;
+	height: 14px;
+	left: 21px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_4 {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 417px;
+	overflow: visible;
+}
+#Grupo_5 {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#inputs_bt {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_123_bua {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#johndoe_mail_com_bua {
+	position: absolute;
+	left: 53px;
+	top: 15px;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(127,132,136,1);
+}
+.Icon_awesome_birthday_cake {
+	overflow: visible;
+	position: absolute;
+	width: 15.366px;
+	height: 22.865px;
+	left: 21.65px;
+	top: 13px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_7 {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 96px;
+	overflow: visible;
+}
+#inputs_buc {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_123_bud {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#johndoe_mail_com_bue {
+	position: absolute;
+	left: 53px;
+	top: 15px;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(127,132,136,1);
+}
+#business {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 17px;
+	top: 12px;
+	overflow: visible;
+}
+#Grupo_6 {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 161px;
+	overflow: visible;
+}
+#inputs_buh {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_123_bui {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#johndoe_mail_com_buj {
+	position: absolute;
+	left: 53px;
+	top: 15px;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(127,132,136,1);
+}
+#business_buk {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 17px;
+	top: 12px;
+	overflow: visible;
+}
+#Card {
+	position: absolute;
+	width: 302px;
+	height: 181px;
+	left: 29px;
+	top: 226px;
+	overflow: visible;
+}
+.Rectangle_1314 {
+	filter: drop-shadow(0px 30px 30px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 392px;
+	height: 271px;
+	left: 0px;
+	top: 0px;
+}
+#REGISTRADO_CORRECTAMENTE_ {
+	position: absolute;
+	left: 70px;
+	top: 274px;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#OK {
+	position: absolute;
+	left: 248px;
+	top: 372px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Sign_In.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(242,172,76,1);
+}
+#Ya_puedes_iniciar_sesion {
+	position: absolute;
+	left: 70px;
+	top: 310px;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}

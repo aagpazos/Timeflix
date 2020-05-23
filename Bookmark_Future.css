@@ -1,0 +1,453 @@
+.mediaViewInfo {
+	--web-view-name: Bookmark Future;
+	--web-view-id: Bookmark_Future;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Bookmark_Future;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Bookmark_Future {
+	position: absolute;
+	width: 360px;
+	height: 640px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Bookmark Future;
+	--web-view-id: Bookmark_Future;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Componente_6___41 {
+	position: absolute;
+	width: 225px;
+	height: 95px;
+	left: 33px;
+	top: 95px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento__Favorito.html;
+	cursor: pointer;
+}
+#NoPath___copia__8_ {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Momento_Futuro_1 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com {
+	position: absolute;
+	left: 77px;
+	top: 13px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Componente_6___42 {
+	position: absolute;
+	width: 225px;
+	height: 95px;
+	left: 33px;
+	top: 209px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento__Favorito.html;
+	cursor: pointer;
+}
+#NoPath___copia__9_ {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Momento_Futuro_2 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com_j {
+	position: absolute;
+	left: 77px;
+	top: 13px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Componente_6___43 {
+	position: absolute;
+	width: 225px;
+	height: 95px;
+	left: 33px;
+	top: 323px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento__Favorito.html;
+	cursor: pointer;
+}
+#NoPath___copia__10_ {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Momento_Futuro_3 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com_n {
+	position: absolute;
+	left: 77px;
+	top: 13px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Componente_7___10 {
+	position: absolute;
+	width: 360px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rect_ngulo_1 {
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 93px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 23px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#Bookmarks {
+	position: absolute;
+	left: 62px;
+	top: 13px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Componente_6___44 {
+	position: absolute;
+	width: 229px;
+	height: 95px;
+	left: 33px;
+	top: 437px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento__Favorito.html;
+	cursor: pointer;
+}
+#NoPath___copia__11_ {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Momento_Futuro__4 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com_v {
+	position: absolute;
+	left: 77px;
+	top: 13px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Past {
+	position: absolute;
+	left: 113px;
+	top: 53px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmarks.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#Future {
+	position: absolute;
+	left: 214px;
+	top: 53px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(242,172,76,1);
+}
+.Rect_ngulo_9 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 2px;
+	left: 214px;
+	top: 74px;
+}
+#Componente_8___15 {
+	position: absolute;
+	width: 360px;
+	height: 58px;
+	left: 0px;
+	top: 582px;
+	overflow: visible;
+}
+.Rect_ngulo_2 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_compass {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 102px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 14.72px;
+	height: 14.72px;
+	left: 8.64px;
+	top: 8.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 32px;
+	left: 170px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmarks.html;
+	cursor: pointer;
+}
+#Icon_feather_user {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 229px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 11px;
+	left: 0px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 7.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_home {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 37.3px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_settings {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n.html;
+	cursor: pointer;
+}
+.Trazado_41 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 10.5px;
+	top: 10.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_42 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

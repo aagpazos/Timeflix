@@ -1,0 +1,1008 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home {
+	position: absolute;
+	width: 360px;
+	height: 640px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Barra_navegacion {
+	position: absolute;
+	width: 360px;
+	height: 58px;
+	left: 0px;
+	top: 582px;
+	overflow: visible;
+}
+.Rect_ngulo_2 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_compass {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 120px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 33px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 15.72px;
+	height: 15.72px;
+	left: 8.64px;
+	top: 8.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 33px;
+	left: 207px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_user {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 285px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 12px;
+	left: 0px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 7.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_home {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 36.3px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_material_search {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 324px;
+	top: 16px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: B_squeda_Futuro.html;
+	cursor: pointer;
+}
+#Grupo_rmomentos {
+	position: absolute;
+	width: 305px;
+	height: 148px;
+	left: 28px;
+	top: 67px;
+	overflow: visible;
+}
+#Favorite_Moments {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 270px;
+	top: 7px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmarks.html;
+	cursor: pointer;
+}
+.Rect_ngulo_3 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	height: 44px;
+	left: 0px;
+	top: 104px;
+}
+#Feb__5__2003 {
+	position: absolute;
+	left: 3px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_1 {
+	position: absolute;
+	left: 5px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 0px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+.Trazado_43 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 83px;
+	height: 44px;
+	left: 80px;
+	top: 104px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Feb__5__2003_dz {
+	position: absolute;
+	left: 83px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_2 {
+	position: absolute;
+	left: 85px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4_d {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 80px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+.Rect_ngulo_3_d {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	height: 44px;
+	left: 160px;
+	top: 104px;
+}
+#Feb__5__2003_d {
+	position: absolute;
+	left: 163px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_3 {
+	position: absolute;
+	left: 165px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4_ea {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 160px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+.Trazado_44 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 83px;
+	height: 44px;
+	left: 240px;
+	top: 104px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Feb__5__2003_ea {
+	position: absolute;
+	left: 243px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_4 {
+	position: absolute;
+	left: 245px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4_eb {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 240px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+#Grupo_rmomentos_ea {
+	position: absolute;
+	width: 305px;
+	height: 148px;
+	left: 28px;
+	top: 246px;
+	overflow: visible;
+}
+#Your_Past {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+.Icon_awesome_arrow_left_ec {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 270px;
+	top: 7px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+}
+.Rect_ngulo_3_ed {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	height: 44px;
+	left: 0px;
+	top: 104px;
+}
+#Feb__5__2003_ee {
+	position: absolute;
+	left: 3px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_1_ef {
+	position: absolute;
+	left: 5px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4_eg {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 0px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+.Trazado_43_eh {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 83px;
+	height: 44px;
+	left: 80px;
+	top: 104px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Feb__5__2003_ei {
+	position: absolute;
+	left: 83px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_2_ej {
+	position: absolute;
+	left: 85px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4_ek {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 80px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+.Rect_ngulo_3_el {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	height: 44px;
+	left: 160px;
+	top: 104px;
+}
+#Feb__5__2003_em {
+	position: absolute;
+	left: 163px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_3_en {
+	position: absolute;
+	left: 165px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4_eo {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 160px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+.Trazado_44_ep {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 83px;
+	height: 44px;
+	left: 240px;
+	top: 104px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Feb__5__2003_eq {
+	position: absolute;
+	left: 243px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_4_er {
+	position: absolute;
+	left: 245px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4_es {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 240px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+#Grupo_rmomentos_et {
+	position: absolute;
+	width: 305px;
+	height: 148px;
+	left: 28px;
+	top: 425px;
+	overflow: visible;
+}
+#Your_Future {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+.Icon_awesome_arrow_left_ev {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 270px;
+	top: 7px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Futuro.html;
+	cursor: pointer;
+}
+.Rect_ngulo_3_ew {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	height: 44px;
+	left: 0px;
+	top: 104px;
+}
+#Feb__5__2003_ex {
+	position: absolute;
+	left: 3px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_1_ey {
+	position: absolute;
+	left: 5px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4_ez {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 0px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+.Trazado_43_e {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 83px;
+	height: 44px;
+	left: 80px;
+	top: 104px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Feb__5__2003_e {
+	position: absolute;
+	left: 83px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_2_e {
+	position: absolute;
+	left: 85px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4_e {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 80px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+.Rect_ngulo_3_e {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	height: 44px;
+	left: 160px;
+	top: 104px;
+}
+#Feb__5__2003_fa {
+	position: absolute;
+	left: 163px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_3_e {
+	position: absolute;
+	left: 165px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4_fa {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 160px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+.Trazado_44_e {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 83px;
+	height: 44px;
+	left: 240px;
+	top: 104px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Feb__5__2003_fb {
+	position: absolute;
+	left: 243px;
+	top: 110px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Recuerdo_4_fa {
+	position: absolute;
+	left: 245px;
+	top: 135px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+#Rect_ngulo_4_fb {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 65px;
+	height: 70px;
+	left: 240px;
+	top: 34px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+#Logo {
+	position: absolute;
+	width: 181px;
+	height: 35px;
+	left: 21px;
+	top: 9px;
+	overflow: visible;
+}
+#Componente_8___1 {
+	position: absolute;
+	width: 360px;
+	height: 58px;
+	left: 0px;
+	top: 582px;
+	overflow: visible;
+}
+.Rect_ngulo_2_fe {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_compass_ff {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 102px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+.Trazado_1_fg {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2_fh {
+	overflow: visible;
+	position: absolute;
+	width: 14.72px;
+	height: 14.72px;
+	left: 8.64px;
+	top: 8.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark_fi {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 32px;
+	left: 170px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmarks.html;
+	cursor: pointer;
+}
+#Icon_feather_user_fj {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 229px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+}
+.Trazado_3_fk {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 11px;
+	left: 0px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_4_fl {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 7.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_home_fm {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 37.3px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_5_fn {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_settings {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n.html;
+	cursor: pointer;
+}
+.Trazado_41 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 10.5px;
+	top: 10.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_42 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

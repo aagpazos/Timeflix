@@ -1,0 +1,228 @@
+.mediaViewInfo {
+	--web-view-name: Momento  Favorito;
+	--web-view-id: Momento__Favorito;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Momento__Favorito;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Momento__Favorito {
+	position: absolute;
+	width: 360px;
+	height: 639px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Momento  Favorito;
+	--web-view-id: Momento__Favorito;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 23px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#NoPath {
+	position: absolute;
+	width: 360px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#NoPath___copia__3_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 98px;
+	height: 125px;
+	left: 23px;
+	top: 114px;
+	overflow: visible;
+}
+#Lorem_Ipsum {
+	position: absolute;
+	left: 126px;
+	top: 162px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#A_o {
+	position: absolute;
+	left: 126px;
+	top: 197px;
+	overflow: visible;
+	width: 28px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Sinopsis {
+	position: absolute;
+	left: 23px;
+	top: 249px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(242,172,76,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co {
+	position: absolute;
+	left: 23px;
+	top: 280px;
+	overflow: hidden;
+	width: 320px;
+	height: 257px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Rect_ngulo_2 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 583px;
+}
+#Elipse_1 {
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Play.html;
+	cursor: pointer;
+}
+.Elipse_1 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	height: 76px;
+	left: 273px;
+	top: 554px;
+}
+.Icon_awesome_play {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 20px;
+	left: 296.65px;
+	top: 572.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 32px;
+	left: 23px;
+	top: 597px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento_Favorito_Notificacion_2.html;
+	cursor: pointer;
+}
+#Icon_feather_share_2 {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 77.3px;
+	top: 597px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento___1.html;
+	cursor: pointer;
+}
+.Trazado_13 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 18px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_14 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 0px;
+	top: 10.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_15 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 18px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_16 {
+	overflow: visible;
+	position: absolute;
+	width: 12.98px;
+	height: 8.705px;
+	left: 8.385px;
+	top: 17.265px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_17 {
+	overflow: visible;
+	position: absolute;
+	width: 12.965px;
+	height: 8.705px;
+	left: 8.385px;
+	top: 6.765px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_arrow_left_w {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 13px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}

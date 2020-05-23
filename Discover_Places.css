@@ -1,0 +1,433 @@
+.mediaViewInfo {
+	--web-view-name: Discover Places;
+	--web-view-id: Discover_Places;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Discover_Places;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Discover_Places {
+	position: absolute;
+	width: 360px;
+	height: 639px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Discover Places;
+	--web-view-id: Discover_Places;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Componente_6___26 {
+	position: absolute;
+	width: 137px;
+	height: 95px;
+	left: 33px;
+	top: 95px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Lugar.html;
+	cursor: pointer;
+}
+#NoPath___copia__8_ {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Lugar_1 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Componente_6___27 {
+	position: absolute;
+	width: 137px;
+	height: 95px;
+	left: 33px;
+	top: 209px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Lugar.html;
+	cursor: pointer;
+}
+#NoPath___copia__9_ {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Lugar_2 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Componente_6___28 {
+	position: absolute;
+	width: 137px;
+	height: 95px;
+	left: 33px;
+	top: 323px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Lugar.html;
+	cursor: pointer;
+}
+#NoPath___copia__10_ {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Lugar_3 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Componente_7___6 {
+	position: absolute;
+	width: 360px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rect_ngulo_1 {
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 93px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 23px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+#Categorias {
+	position: absolute;
+	left: 62px;
+	top: 13px;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Past {
+	position: absolute;
+	left: 23px;
+	top: 48px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover_Past.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#Future {
+	position: absolute;
+	left: 95px;
+	top: 48px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover_Future.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#People {
+	position: absolute;
+	left: 181px;
+	top: 48px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover_People.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#Places {
+	position: absolute;
+	left: 271px;
+	top: 48px;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(242,172,76,1);
+}
+.Rect_ngulo_9 {
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	height: 2px;
+	left: 271px;
+	top: 73px;
+}
+#Componente_6___29 {
+	position: absolute;
+	width: 137px;
+	height: 95px;
+	left: 33px;
+	top: 437px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Lugar.html;
+	cursor: pointer;
+}
+#NoPath___copia__11_ {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Lugar_4 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Componente_8___7 {
+	position: absolute;
+	width: 360px;
+	height: 58px;
+	left: 0px;
+	top: 581px;
+	overflow: visible;
+}
+.Rect_ngulo_2 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_compass {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 102px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 14.72px;
+	height: 14.72px;
+	left: 8.64px;
+	top: 8.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 32px;
+	left: 170px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmarks.html;
+	cursor: pointer;
+}
+#Icon_feather_user {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 229px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 11px;
+	left: 0px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 7.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_home {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 37.3px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_settings {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n.html;
+	cursor: pointer;
+}
+.Trazado_41 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 10.5px;
+	top: 10.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_42 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

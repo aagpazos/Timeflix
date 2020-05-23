@@ -1,0 +1,667 @@
+.mediaViewInfo {
+	--web-view-name: Editar Perfil;
+	--web-view-id: Editar_Perfil;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Editar_Perfil;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Editar_Perfil {
+	position: absolute;
+	width: 360px;
+	height: 639px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Editar Perfil;
+	--web-view-id: Editar_Perfil;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Elipse_1 {
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Editar_Perfil___1.html;
+	cursor: pointer;
+}
+.Elipse_1 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	height: 76px;
+	left: 282px;
+	top: 507px;
+}
+#NoPath {
+	position: absolute;
+	width: 360px;
+	height: 129px;
+	left: 0px;
+	top: 46px;
+	overflow: visible;
+}
+#Grupo_20 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rect_ngulo_12 {
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 23px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n.html;
+	cursor: pointer;
+}
+#Editar_Perfil_ok {
+	position: absolute;
+	left: 62px;
+	top: 13px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Barra_navegacion {
+	position: absolute;
+	width: 360px;
+	height: 58px;
+	left: 0px;
+	top: 579px;
+	overflow: visible;
+}
+.Rect_ngulo_2 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_compass {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 120px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 33px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 15.72px;
+	height: 15.72px;
+	left: 8.64px;
+	top: 8.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 33px;
+	left: 207px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmarks.html;
+	cursor: pointer;
+}
+#Icon_feather_user {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 285px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 12px;
+	left: 0px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 7.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_home {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 36.3px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_26 {
+	opacity: 0.59;
+}
+.Trazado_26 {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 125px;
+	left: 0px;
+	top: 50px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_save {
+	overflow: visible;
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	left: 299px;
+	top: 524px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#NoPath___copia__4_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 87px;
+	height: 83px;
+	left: 26px;
+	top: 134px;
+	overflow: visible;
+}
+#Icon_ionic_ios_camera {
+	opacity: 0.83;
+	position: absolute;
+	width: 27px;
+	height: 20.25px;
+	left: 166.7px;
+	top: 100.375px;
+	overflow: visible;
+}
+.Trazado_27 {
+	overflow: visible;
+	position: absolute;
+	width: 8.086px;
+	height: 8.086px;
+	left: 9.457px;
+	top: 7.418px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_28 {
+	overflow: visible;
+	position: absolute;
+	width: 27px;
+	height: 20.25px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_21 {
+	position: absolute;
+	width: 295px;
+	height: 32px;
+	left: 33px;
+	top: 231px;
+	overflow: visible;
+}
+.Rectangle_853 {
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	height: 2px;
+	left: 0px;
+	top: 30px;
+}
+#FULL_NAME {
+	position: absolute;
+	left: 0px;
+	top: 6px;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Uhtred {
+	position: absolute;
+	left: 228px;
+	top: 0px;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_22 {
+	position: absolute;
+	width: 295px;
+	height: 32px;
+	left: 33px;
+	top: 282px;
+	overflow: visible;
+}
+.Rectangle_853_o {
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	height: 2px;
+	left: 0px;
+	top: 30px;
+}
+#FULL_NAME_o {
+	position: absolute;
+	left: 0px;
+	top: 6px;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#of_Bebbanburg_ {
+	position: absolute;
+	left: 151px;
+	top: 0px;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_23 {
+	position: absolute;
+	width: 295px;
+	height: 32px;
+	left: 33px;
+	top: 333px;
+	overflow: visible;
+}
+.Rectangle_853_pb {
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	height: 2px;
+	left: 0px;
+	top: 30px;
+}
+#FULL_NAME_pc {
+	position: absolute;
+	left: 0px;
+	top: 6px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Uhtred12 {
+	position: absolute;
+	left: 206px;
+	top: 0px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_24 {
+	position: absolute;
+	width: 295px;
+	height: 32px;
+	left: 33px;
+	top: 384px;
+	overflow: visible;
+}
+.Rectangle_853_pf {
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	height: 2px;
+	left: 0px;
+	top: 30px;
+}
+#FULL_NAME_pg {
+	position: absolute;
+	left: 0px;
+	top: 6px;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#uhtred_wessex_uk {
+	position: absolute;
+	left: 119px;
+	top: 0px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_25 {
+	position: absolute;
+	width: 295px;
+	height: 32px;
+	left: 33px;
+	top: 435px;
+	overflow: visible;
+}
+.Rectangle_853_pj {
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	height: 2px;
+	left: 0px;
+	top: 30px;
+}
+#FULL_NAME_pk {
+	position: absolute;
+	left: 0px;
+	top: 6px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#ID12_Enero_860 {
+	position: absolute;
+	left: 163px;
+	top: 0px;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#NoPath___copia__4__pm {
+	opacity: 0.4;
+}
+.NoPath___copia__4__pm {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	height: 101px;
+	left: 26px;
+	top: 134px;
+}
+#Icon_ionic_ios_camera_pn {
+	opacity: 0.83;
+	position: absolute;
+	width: 27px;
+	height: 20.25px;
+	left: 55.7px;
+	top: 165.375px;
+	overflow: visible;
+}
+.Trazado_27_po {
+	overflow: visible;
+	position: absolute;
+	width: 8.086px;
+	height: 8.086px;
+	left: 9.457px;
+	top: 7.418px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_28_pp {
+	overflow: visible;
+	position: absolute;
+	width: 27px;
+	height: 20.25px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Componente_8___32 {
+	position: absolute;
+	width: 360px;
+	height: 58px;
+	left: 0px;
+	top: 582px;
+	overflow: visible;
+}
+.Rect_ngulo_2_pr {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_compass_ps {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 102px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+.Trazado_1_pt {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2_pu {
+	overflow: visible;
+	position: absolute;
+	width: 14.72px;
+	height: 14.72px;
+	left: 8.64px;
+	top: 8.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark_pv {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 32px;
+	left: 170px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmarks.html;
+	cursor: pointer;
+}
+#Icon_feather_user_pw {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 229px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+}
+.Trazado_3_px {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 11px;
+	left: 0px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_4_py {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 7.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_home_pz {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 37.3px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_5_p {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_settings {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n.html;
+	cursor: pointer;
+}
+.Trazado_41 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 10.5px;
+	top: 10.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_42 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

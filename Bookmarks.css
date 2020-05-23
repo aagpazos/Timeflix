@@ -1,0 +1,449 @@
+.mediaViewInfo {
+	--web-view-name: Bookmarks;
+	--web-view-id: Bookmarks;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Bookmarks;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Bookmarks {
+	position: absolute;
+	width: 360px;
+	height: 640px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Bookmarks;
+	--web-view-id: Bookmarks;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Componente_6___15 {
+	position: absolute;
+	width: 274px;
+	height: 95px;
+	left: 33px;
+	top: 95px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento__Favorito.html;
+	cursor: pointer;
+}
+#Rect_ngulo_10 {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Descubrimiento_America {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 198px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com {
+	position: absolute;
+	left: 74px;
+	top: 13px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Componente_6___16 {
+	position: absolute;
+	width: 264px;
+	height: 95px;
+	left: 33px;
+	top: 209px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento__Favorito.html;
+	cursor: pointer;
+}
+#Rect_ngulo_10_j {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Vikingos_en_Lindisfarne {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 188px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com_j {
+	position: absolute;
+	left: 77px;
+	top: 13px;
+	overflow: visible;
+	width: 28px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Componente_6___17 {
+	position: absolute;
+	width: 234px;
+	height: 95px;
+	left: 33px;
+	top: 323px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento__Favorito.html;
+	cursor: pointer;
+}
+#Rect_ngulo_10_ka {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Momento_Pasado_3 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com_kb {
+	position: absolute;
+	left: 77px;
+	top: 13px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Componente_7___3 {
+	position: absolute;
+	width: 360px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rect_ngulo_1 {
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 93px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 23px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#Bookmarks_kf {
+	position: absolute;
+	left: 62px;
+	top: 13px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Past {
+	position: absolute;
+	left: 113px;
+	top: 53px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(242,172,76,1);
+}
+#Future {
+	position: absolute;
+	left: 215px;
+	top: 53px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmark_Future.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+.Rect_ngulo_9 {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 2px;
+	left: 113px;
+	top: 75px;
+}
+#Componente_6___18 {
+	position: absolute;
+	width: 234px;
+	height: 95px;
+	left: 33px;
+	top: 437px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento__Favorito.html;
+	cursor: pointer;
+}
+#Rect_ngulo_10_kk {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Momento_Pasado_4 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com_km {
+	position: absolute;
+	left: 77px;
+	top: 13px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Componente_8___14 {
+	position: absolute;
+	width: 360px;
+	height: 58px;
+	left: 0px;
+	top: 581px;
+	overflow: visible;
+}
+.Rect_ngulo_2 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_compass {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 102px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 14.72px;
+	height: 14.72px;
+	left: 8.64px;
+	top: 8.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 32px;
+	left: 170px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_user {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 229px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 11px;
+	left: 0px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 7.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_home {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 37.3px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_settings {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n.html;
+	cursor: pointer;
+}
+.Trazado_41 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 10.5px;
+	top: 10.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_42 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

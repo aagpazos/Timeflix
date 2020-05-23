@@ -1,0 +1,479 @@
+.mediaViewInfo {
+	--web-view-name: Perfil Past;
+	--web-view-id: Perfil_Past;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Perfil_Past;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Perfil_Past {
+	position: absolute;
+	width: 360px;
+	height: 640px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Perfil Past;
+	--web-view-id: Perfil_Past;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 23px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_48 {
+	position: absolute;
+	width: 167px;
+	height: 95px;
+	left: 43px;
+	top: 466px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+#Rect_ngulo_10 {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Recuerdo_3 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com {
+	position: absolute;
+	left: 74px;
+	top: 13px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_46 {
+	position: absolute;
+	width: 167px;
+	height: 95px;
+	left: 43px;
+	top: 242px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+#NoPath___copia__5_ {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Recuerdo_1 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com_lb {
+	position: absolute;
+	left: 120px;
+	top: 254px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_47 {
+	position: absolute;
+	width: 167px;
+	height: 95px;
+	left: 43px;
+	top: 354px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Momento.html;
+	cursor: pointer;
+}
+#Rect_ngulo_10_ld {
+	position: absolute;
+	width: 67px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Recuerdo_2 {
+	position: absolute;
+	left: 77px;
+	top: 36px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com_lf {
+	position: absolute;
+	left: 74px;
+	top: 13px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_55 {
+	position: absolute;
+	width: 58px;
+	height: 58px;
+	left: 282px;
+	top: 507px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Hora_personalizada.html;
+	cursor: pointer;
+}
+.Elipse_1 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_clock {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 14.4px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_18 {
+	overflow: visible;
+	position: absolute;
+	width: 33px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_19 {
+	overflow: visible;
+	position: absolute;
+	width: 9.512px;
+	height: 15.512px;
+	left: 15px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_15 {
+	position: absolute;
+	width: 360px;
+	height: 222px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rect_ngulo_11 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 127px;
+	left: 0px;
+	top: 113px;
+}
+#NoPath {
+	position: absolute;
+	width: 360px;
+	height: 129px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Uhtred {
+	position: absolute;
+	left: 119px;
+	top: 139px;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#NoPath___copia__4_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 87px;
+	height: 83px;
+	left: 25px;
+	top: 98px;
+	overflow: visible;
+}
+#Your_Past {
+	position: absolute;
+	left: 41px;
+	top: 193px;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(242,172,76,1);
+}
+#Your_Future {
+	position: absolute;
+	left: 137px;
+	top: 194px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Futuro.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#Stats {
+	position: absolute;
+	left: 247px;
+	top: 194px;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Stats.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+.Rect_ngulo_9 {
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	height: 2px;
+	left: 42px;
+	top: 218px;
+}
+#Componente_8___16 {
+	position: absolute;
+	width: 360px;
+	height: 58px;
+	left: 0px;
+	top: 582px;
+	overflow: visible;
+}
+.Rect_ngulo_2 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_compass {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 102px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 14.72px;
+	height: 14.72px;
+	left: 8.64px;
+	top: 8.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 32px;
+	left: 170px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmarks.html;
+	cursor: pointer;
+}
+#Icon_feather_user {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 229px;
+	top: 13px;
+	overflow: visible;
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 11px;
+	left: 0px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 7.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_home {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 37.3px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_settings {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n.html;
+	cursor: pointer;
+}
+.Trazado_41 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 10.5px;
+	top: 10.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_42 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

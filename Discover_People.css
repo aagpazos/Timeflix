@@ -1,0 +1,535 @@
+.mediaViewInfo {
+	--web-view-name: Discover People;
+	--web-view-id: Discover_People;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Discover_People;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Discover_People {
+	position: absolute;
+	width: 360px;
+	height: 639px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Discover People;
+	--web-view-id: Discover_People;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Componente_7___5 {
+	position: absolute;
+	width: 360px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rect_ngulo_1 {
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 93px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 23px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+#Categorias {
+	position: absolute;
+	left: 62px;
+	top: 13px;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Past {
+	position: absolute;
+	left: 23px;
+	top: 48px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover_Past.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#Future {
+	position: absolute;
+	left: 95px;
+	top: 48px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover_Future.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#People {
+	position: absolute;
+	left: 181px;
+	top: 48px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(242,172,76,1);
+}
+#Places {
+	position: absolute;
+	left: 271px;
+	top: 48px;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover_Places.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+.Rect_ngulo_9 {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 2px;
+	left: 180px;
+	top: 74px;
+}
+#Grupo_39 {
+	position: absolute;
+	width: 170px;
+	height: 54px;
+	left: 33px;
+	top: 97px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Personaje.html;
+	cursor: pointer;
+}
+#NoPath___copia__15_ {
+	position: absolute;
+	width: 58px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Marie_Curie {
+	position: absolute;
+	left: 78px;
+	top: 16px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_40 {
+	position: absolute;
+	width: 235px;
+	height: 54px;
+	left: 33px;
+	top: 167px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Personaje.html;
+	cursor: pointer;
+}
+#Elipse_3 {
+	position: absolute;
+	width: 58px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Personaje_Historico {
+	position: absolute;
+	left: 78px;
+	top: 16px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_41 {
+	position: absolute;
+	width: 235px;
+	height: 54px;
+	left: 33px;
+	top: 237px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Personaje.html;
+	cursor: pointer;
+}
+#Elipse_4 {
+	position: absolute;
+	width: 58px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Personaje_Historico_x {
+	position: absolute;
+	left: 78px;
+	top: 16px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_42 {
+	position: absolute;
+	width: 235px;
+	height: 54px;
+	left: 33px;
+	top: 307px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Personaje.html;
+	cursor: pointer;
+}
+#Elipse_5 {
+	position: absolute;
+	width: 58px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Personaje_Historico_ya {
+	position: absolute;
+	left: 78px;
+	top: 16px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_43 {
+	position: absolute;
+	width: 235px;
+	height: 54px;
+	left: 33px;
+	top: 377px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Personaje.html;
+	cursor: pointer;
+}
+#Elipse_6 {
+	position: absolute;
+	width: 58px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Personaje_Historico_yb {
+	position: absolute;
+	left: 78px;
+	top: 16px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_44 {
+	position: absolute;
+	width: 235px;
+	height: 54px;
+	left: 33px;
+	top: 447px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Personaje.html;
+	cursor: pointer;
+}
+#Elipse_7 {
+	position: absolute;
+	width: 58px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Personaje_Historico_ye {
+	position: absolute;
+	left: 78px;
+	top: 16px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_45 {
+	position: absolute;
+	width: 235px;
+	height: 54px;
+	left: 33px;
+	top: 513px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Personaje.html;
+	cursor: pointer;
+}
+#Elipse_8 {
+	position: absolute;
+	width: 58px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Personaje_Historico_yh {
+	position: absolute;
+	left: 78px;
+	top: 16px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Componente_8___6 {
+	position: absolute;
+	width: 360px;
+	height: 58px;
+	left: 0px;
+	top: 581px;
+	overflow: visible;
+}
+.Rect_ngulo_2 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_compass {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 102px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 14.72px;
+	height: 14.72px;
+	left: 8.64px;
+	top: 8.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 32px;
+	left: 170px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmarks.html;
+	cursor: pointer;
+}
+#Icon_feather_user {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 229px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 11px;
+	left: 0px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 7.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_home {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 37.3px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_settings {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n.html;
+	cursor: pointer;
+}
+.Trazado_41 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 10.5px;
+	top: 10.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_42 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

@@ -1,0 +1,182 @@
+.mediaViewInfo {
+	--web-view-name: Mapa ;
+	--web-view-id: Mapa_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Mapa_;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Mapa_ {
+	position: absolute;
+	width: 360px;
+	height: 640px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Mapa ;
+	--web-view-id: Mapa_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+#Map {
+	position: absolute;
+	width: 303px;
+	height: 410.669px;
+	left: 29px;
+	top: 143px;
+	overflow: visible;
+}
+.Rectangle_586 {
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	height: 410px;
+	left: 0px;
+	top: 0px;
+}
+#Intersection_2 {
+	position: absolute;
+	width: 302.718px;
+	height: 410.669px;
+	left: 0.048px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_230 {
+	overflow: visible;
+	position: absolute;
+	width: 302.718px;
+	height: 410.669px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_map_marker_alt {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 30px;
+	left: 185.2px;
+	top: 442px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#inputs {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 74px;
+	overflow: visible;
+}
+.Rectangle_123 {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#johndoe_mail_com {
+	position: absolute;
+	left: 53px;
+	top: 15px;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(83,88,91,1);
+}
+.Icon_material_search {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 52px;
+	top: 88px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rect_ngulo_55 {
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 23px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+#Mapa {
+	position: absolute;
+	left: 62px;
+	top: 13px;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_13 {
+	position: absolute;
+	width: 187px;
+	height: 39px;
+	left: 87px;
+	top: 576px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+.Rectangle_132 {
+	position: absolute;
+	overflow: visible;
+	width: 187px;
+	height: 39px;
+	left: 0px;
+	top: 0px;
+}
+#Seleccionar_lugar {
+	position: absolute;
+	left: 17px;
+	top: 8px;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}

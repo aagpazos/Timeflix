@@ -1,0 +1,684 @@
+.mediaViewInfo {
+	--web-view-name: Configuración – 4;
+	--web-view-id: Configuraci_n___4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Configuraci_n___4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Configuraci_n___4 {
+	position: absolute;
+	width: 360px;
+	height: 639px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Configuración – 4;
+	--web-view-id: Configuraci_n___4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#NoPath___copia__4_ {
+	position: absolute;
+	width: 87px;
+	height: 83px;
+	left: 137px;
+	top: 69px;
+	overflow: visible;
+}
+#Recuerdo_4 {
+	position: absolute;
+	left: 120px;
+	top: 604px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com {
+	position: absolute;
+	left: 117px;
+	top: 581px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_16 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rect_ngulo_12 {
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+#Configuraci_n_ {
+	position: absolute;
+	left: 62px;
+	top: 13px;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_60 {
+	position: absolute;
+	width: 123px;
+	height: 21px;
+	left: 51px;
+	top: 183px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Editar_Perfil.html;
+	cursor: pointer;
+}
+#Editar_Perfil {
+	position: absolute;
+	left: 46px;
+	top: 3px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Icon_awesome_user_alt {
+	overflow: visible;
+	position: absolute;
+	width: 17px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_material_subtitles {
+	overflow: visible;
+	position: absolute;
+	width: 26px;
+	height: 20px;
+	left: 48.3px;
+	top: 326px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_17 {
+	position: absolute;
+	width: 200px;
+	height: 37px;
+	left: 51px;
+	top: 219px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n___1.html;
+	cursor: pointer;
+}
+#Idioma_de_la_aplicacion {
+	position: absolute;
+	left: 46px;
+	top: 0px;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Icon_material_translate {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 20px;
+	left: 0px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Espa_ol {
+	position: absolute;
+	left: 45px;
+	top: 19px;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+#Subtitulos {
+	position: absolute;
+	left: 94px;
+	top: 326px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Icon_material_translate_bqj {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 20px;
+	left: 51px;
+	top: 227px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_62 {
+	position: absolute;
+	width: 206px;
+	height: 37px;
+	left: 48px;
+	top: 359px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n___1.html;
+	cursor: pointer;
+}
+#Grupo_19 {
+	position: absolute;
+	width: 206px;
+	height: 37px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Idioma_de_los_subtitulos {
+	position: absolute;
+	left: 46px;
+	top: 0px;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Icon_material_translate_bqn {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 20px;
+	left: 0px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Espa_ol_bqo {
+	position: absolute;
+	left: 45px;
+	top: 19px;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+#Grupo_61 {
+	position: absolute;
+	width: 136px;
+	height: 37px;
+	left: 48px;
+	top: 411px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n___2.html;
+	cursor: pointer;
+}
+#Calidad_video {
+	position: absolute;
+	left: 46px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#ID720p {
+	position: absolute;
+	left: 45px;
+	top: 19px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+.Icon_material_high_quality {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 20px;
+	left: 0px;
+	top: 9px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_2 {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 2px;
+	left: 29.5px;
+	top: 305.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.L_nea_3 {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 2px;
+	left: 36.5px;
+	top: 467.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_63 {
+	position: absolute;
+	width: 111.5px;
+	height: 25px;
+	left: 48.5px;
+	top: 487px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Acerca_De.html;
+	cursor: pointer;
+}
+#Acerca_de {
+	position: absolute;
+	left: 44.5px;
+	top: 4px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Icon_feather_info {
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_20 {
+	overflow: visible;
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_21 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 8px;
+	left: 12.5px;
+	top: 11.875px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_22 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 2px;
+	left: 12.5px;
+	top: 7.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_64 {
+	position: absolute;
+	width: 87.5px;
+	height: 25px;
+	left: 47.5px;
+	top: 525px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Ayuda.html;
+	cursor: pointer;
+}
+#Ayuda {
+	position: absolute;
+	left: 46.5px;
+	top: 2px;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Icon_feather_help_circle {
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Trazado_23 {
+	overflow: visible;
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_24 {
+	overflow: visible;
+	position: absolute;
+	width: 11.02px;
+	height: 11.312px;
+	left: 8.133px;
+	top: 5.708px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_25 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 2px;
+	left: 12.5px;
+	top: 18.75px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_82 {
+	position: absolute;
+	width: 157.5px;
+	height: 37px;
+	left: 47.5px;
+	top: 262px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n___5.html;
+	cursor: pointer;
+}
+#Tama_o_de_letra {
+	position: absolute;
+	left: 49.5px;
+	top: 0px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Mediano {
+	position: absolute;
+	left: 48.5px;
+	top: 19px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+.Icon_material_format_size {
+	overflow: visible;
+	position: absolute;
+	width: 26.5px;
+	height: 20px;
+	left: 0px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_18 {
+	position: absolute;
+	width: 30px;
+	height: 20px;
+	left: 282px;
+	top: 325px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n.html;
+	cursor: pointer;
+}
+.Toggle_Button_Slider {
+	overflow: visible;
+	position: absolute;
+	width: 30px;
+	height: 10px;
+	left: 0px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Toggle_Button_Ellipse {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+#Componente_8___26 {
+	position: absolute;
+	width: 360px;
+	height: 58px;
+	left: 0px;
+	top: 582px;
+	overflow: visible;
+}
+.Rect_ngulo_2 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_compass {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 102px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 14.72px;
+	height: 14.72px;
+	left: 8.64px;
+	top: 8.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 32px;
+	left: 170px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmarks.html;
+	cursor: pointer;
+}
+#Icon_feather_user {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 229px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 11px;
+	left: 0px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 7.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_home {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 37.3px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_settings {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n.html;
+	cursor: pointer;
+}
+.Trazado_41 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 10.5px;
+	top: 10.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_42 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

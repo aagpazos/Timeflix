@@ -1,0 +1,270 @@
+.mediaViewInfo {
+	--web-view-name: Play – 4;
+	--web-view-id: Play___4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Play___4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Play___4 {
+	position: absolute;
+	width: 639px;
+	height: 340px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Play – 4;
+	--web-view-id: Play___4;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#NoPath___copia__7_ {
+	position: absolute;
+	width: 639px;
+	height: 340px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_29 {
+	opacity: 0.32;
+}
+.Trazado_29 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 657px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 10px;
+	top: 11px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#Trazado_30 {
+	opacity: 0.54;
+}
+.Trazado_30 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 657px;
+	height: 60px;
+	left: 0px;
+	top: 298px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_play {
+	overflow: visible;
+	position: absolute;
+	width: 15px;
+	height: 20px;
+	left: 14.65px;
+	top: 308.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_746 {
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 4px;
+	left: 50px;
+	top: 318px;
+}
+.Rectangle_746_by {
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	height: 4px;
+	left: 337px;
+	top: 319px;
+}
+.Ellipse_241 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 225px;
+	top: 311px;
+}
+.Rectangle_746_bza {
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 4px;
+	left: 244px;
+	top: 319px;
+}
+#Icon_feather_settings {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 587px;
+	top: 310.5px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Play.html;
+	cursor: pointer;
+}
+.Trazado_31 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 5.5px;
+	top: 5.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_32 {
+	overflow: visible;
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_40 {
+	opacity: 0.65;
+}
+.Trazado_40 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 195.562px;
+	height: 116.124px;
+	left: 461.438px;
+	top: 199.656px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID480p {
+	position: absolute;
+	left: 489px;
+	top: 233px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Play___2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#ID720p {
+	position: absolute;
+	left: 489px;
+	top: 253px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Play___2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#CALIDAD {
+	position: absolute;
+	left: 489px;
+	top: 206px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#ID1080p {
+	position: absolute;
+	left: 489px;
+	top: 273px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Play___2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+.Icon_ionic_ios_arrow_forward {
+	overflow: visible;
+	position: absolute;
+	width: 8.116px;
+	height: 11.784px;
+	left: 470px;
+	top: 209px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Play___2.html;
+	cursor: pointer;
+}
+.L_nea_4 {
+	overflow: visible;
+	position: absolute;
+	width: 178px;
+	height: 1px;
+	left: 461.5px;
+	top: 224.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_check {
+	overflow: visible;
+	position: absolute;
+	width: 10.905px;
+	height: 9.464px;
+	left: 470.095px;
+	top: 237px;
+	transform: matrix(1,0,0,1,0,0);
+}

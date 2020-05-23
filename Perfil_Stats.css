@@ -1,0 +1,620 @@
+.mediaViewInfo {
+	--web-view-name: Perfil Stats;
+	--web-view-id: Perfil_Stats;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Perfil_Stats;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Perfil_Stats {
+	position: absolute;
+	width: 360px;
+	height: 640px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Perfil Stats;
+	--web-view-id: Perfil_Stats;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Icon_awesome_arrow_left {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 23px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_15 {
+	position: absolute;
+	width: 360px;
+	height: 222px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rect_ngulo_11 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 127px;
+	left: 0px;
+	top: 113px;
+}
+#NoPath {
+	position: absolute;
+	width: 360px;
+	height: 129px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Uhtred {
+	position: absolute;
+	left: 119px;
+	top: 139px;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#NoPath___copia__4_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 87px;
+	height: 83px;
+	left: 25px;
+	top: 98px;
+	overflow: visible;
+}
+#Your_Past {
+	position: absolute;
+	left: 41px;
+	top: 193px;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#Your_Future {
+	position: absolute;
+	left: 137px;
+	top: 194px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Futuro.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#Stats {
+	position: absolute;
+	left: 247px;
+	top: 194px;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(242,172,76,1);
+}
+.Rect_ngulo_9 {
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	height: 2px;
+	left: 247px;
+	top: 220px;
+}
+#Momento_Futuro_4 {
+	position: absolute;
+	left: 120px;
+	top: 604px;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#johndoe_mail_com {
+	position: absolute;
+	left: 120px;
+	top: 583px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Group_143_r {
+	position: absolute;
+	width: 67.937px;
+	height: 66.65px;
+	left: 33px;
+	top: 240px;
+	overflow: visible;
+}
+.Path_225_s {
+	overflow: visible;
+	position: absolute;
+	width: 67.937px;
+	height: 66.65px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_226_t {
+	overflow: visible;
+	position: absolute;
+	width: 67.937px;
+	height: 66.65px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID2_8ltr {
+	position: absolute;
+	left: 52px;
+	top: 265px;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(242,172,76,1);
+}
+#Group_143_r {
+	position: absolute;
+	width: 67.937px;
+	height: 66.65px;
+	left: 33px;
+	top: 240px;
+	overflow: visible;
+}
+.Path_225_s {
+	overflow: visible;
+	position: absolute;
+	width: 67.937px;
+	height: 66.65px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_226_t {
+	overflow: visible;
+	position: absolute;
+	width: 67.937px;
+	height: 66.65px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Porcentaje_de_veces__que_has_v {
+	position: absolute;
+	left: 131px;
+	top: 256px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(242,172,76,1);
+}
+#graph {
+	position: absolute;
+	width: 329px;
+	height: 183px;
+	left: 16px;
+	top: 380px;
+	overflow: visible;
+}
+.ID1_x {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+}
+.ID2_z {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 140px;
+	left: 40px;
+	top: 24px;
+}
+.ID3_ {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 128px;
+	left: 76px;
+	top: 36px;
+}
+.ID4_ {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 73px;
+	left: 114px;
+	top: 91px;
+}
+.ID5_ {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 105px;
+	left: 153px;
+	top: 59px;
+}
+.ID6_ {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 78px;
+	left: 229px;
+	top: 86px;
+}
+.ID7_ {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 73px;
+	left: 265px;
+	top: 91px;
+}
+.ID8_bab {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 122px;
+	left: 305px;
+	top: 42px;
+}
+.ID6_bad {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 164px;
+	left: 191px;
+	top: 0px;
+}
+#ID12 {
+	position: absolute;
+	left: 9px;
+	top: 172px;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(242,172,76,1);
+}
+#ID13 {
+	position: absolute;
+	left: 49px;
+	top: 172px;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(242,172,76,1);
+}
+#ID14 {
+	position: absolute;
+	left: 84px;
+	top: 172px;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(242,172,76,1);
+}
+#ID15 {
+	position: absolute;
+	left: 122px;
+	top: 172px;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(242,172,76,1);
+}
+#ID16 {
+	position: absolute;
+	left: 161px;
+	top: 172px;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(242,172,76,1);
+}
+#ID17 {
+	position: absolute;
+	left: 200px;
+	top: 172px;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(242,172,76,1);
+}
+#ID18 {
+	position: absolute;
+	left: 238px;
+	top: 172px;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(242,172,76,1);
+}
+#ID19 {
+	position: absolute;
+	left: 273px;
+	top: 172px;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(242,172,76,1);
+}
+#ID20 {
+	position: absolute;
+	left: 314px;
+	top: 172px;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(242,172,76,1);
+}
+#Tiempo_pasado_viendo_TimeFlix_ {
+	position: absolute;
+	left: 45px;
+	top: 328px;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(242,172,76,1);
+}
+#Componente_8___29 {
+	position: absolute;
+	width: 360px;
+	height: 58px;
+	left: 0px;
+	top: 582px;
+	overflow: visible;
+}
+.Rect_ngulo_2 {
+	filter: drop-shadow(0px -5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 378px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_compass {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 102px;
+	top: 14px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Discover.html;
+	cursor: pointer;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 14.72px;
+	height: 14.72px;
+	left: 8.64px;
+	top: 8.64px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_feather_bookmark {
+	overflow: visible;
+	position: absolute;
+	width: 23px;
+	height: 32px;
+	left: 170px;
+	top: 14px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Bookmarks.html;
+	cursor: pointer;
+}
+#Icon_feather_user {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 229px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Perfil_Past.html;
+	cursor: pointer;
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 11px;
+	left: 0px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 7.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_home {
+	position: absolute;
+	width: 27px;
+	height: 30px;
+	left: 37.3px;
+	top: 14px;
+	overflow: visible;
+}
+.Trazado_5 {
+	overflow: visible;
+	position: absolute;
+	width: 29px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_settings {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 294px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Configuraci_n.html;
+	cursor: pointer;
+}
+.Trazado_41 {
+	overflow: visible;
+	position: absolute;
+	width: 11px;
+	height: 11px;
+	left: 10.5px;
+	top: 10.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Trazado_42 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

@@ -1,0 +1,220 @@
+.mediaViewInfo {
+	--web-view-name: Sign In;
+	--web-view-id: Sign_In;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Sign_In;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Sign_In {
+	position: absolute;
+	width: 360px;
+	height: 640px;
+	background-color: rgba(33,45,59,1);
+	overflow: hidden;
+	--web-view-name: Sign In;
+	--web-view-id: Sign_In;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+#inputs {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 154px;
+	overflow: visible;
+}
+.Rectangle_123 {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#johndoe_mail_com {
+	position: absolute;
+	left: 53px;
+	top: 15px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(83,88,91,1);
+}
+#Continue {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 296px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+.Rectangle_132 {
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#CONTINUE {
+	position: absolute;
+	left: 84px;
+	top: 13px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#inputs_bw {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 225px;
+	overflow: visible;
+}
+.Rectangle_123_bx {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#johndoe_mail_com_by {
+	position: absolute;
+	left: 54px;
+	top: 15px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(83,88,91,1);
+}
+.Icon_awesome_user_alt {
+	overflow: visible;
+	position: absolute;
+	width: 13px;
+	height: 16px;
+	left: 55px;
+	top: 170px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#key {
+	position: absolute;
+	width: 18px;
+	height: 19px;
+	left: 50px;
+	top: 240px;
+	overflow: visible;
+}
+#Continue_b {
+	position: absolute;
+	width: 295px;
+	height: 48px;
+	left: 33px;
+	top: 507px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Registro.html;
+	cursor: pointer;
+}
+.Rectangle_132_b {
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#CONTINUE_b {
+	position: absolute;
+	left: 91px;
+	top: 13px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+.L_nea_1 {
+	overflow: visible;
+	position: absolute;
+	width: 295px;
+	height: 2px;
+	left: 32.5px;
+	top: 397.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#_Sin_cuenta___Registrese__y_na {
+	position: absolute;
+	left: 38px;
+	top: 442px;
+	overflow: visible;
+	width: 285px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Logo {
+	position: absolute;
+	width: 259px;
+	height: 51px;
+	left: 51px;
+	top: 59px;
+	overflow: visible;
+}

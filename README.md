@@ -1,5 +1,5 @@
 <h1> TIMEFLIX </h1>
-![esunlogo](image/Logo.png)
+
 <h2> Enlace para acceder: </h2>
 https://aagpazos.github.io/Timeflix/
 

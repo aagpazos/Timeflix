@@ -1,10 +1,7 @@
 .mediaViewInfo {
 	--web-view-name: Splash Screen;
 	--web-view-id: Splash_Screen;
-	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
-	--web-center-horizontally: true;
-	--web-center-vertically: true;
 	--web-enable-deep-linking: true;
 }
 :root {
@@ -18,26 +15,34 @@
 }
 #Splash_Screen {
 	position: absolute;
-	transform: translateX(-50%) translateY(-50%);
-	left: 50%;
-	top: 50%;
-	width: 360;
-	height: 640;
+	width: 360px;
+	height: 640px;
 	background-color: rgba(33,45,59,1);
 	overflow: hidden;
 	--web-view-name: Splash Screen;
 	--web-view-id: Splash_Screen;
-	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
-	--web-center-horizontally: true;
-	--web-center-vertically: true;
 	--web-enable-deep-linking: true;
 }
-#Logo {
+#TIMEFLIX {
 	position: absolute;
-	width: 285px;
-	height: 56px;
-	left: 38px;
-	top: 292px;
+	left: 42px;
+	top: 280px;
+	overflow: visible;
+	width: 225px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Blessed;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 50px;
+	color: rgba(242,172,76,1);
+}
+#deadline {
+	position: absolute;
+	width: 57px;
+	height: 57px;
+	left: 262px;
+	top: 278px;
 	overflow: visible;
 }

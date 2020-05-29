@@ -5,56 +5,24 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>index</title>
-    <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="css/index.css" />
-    <script id="applicationScript" type="text/javascript" src="javascript/index.js"></script>
+    <title>Splash Screen</title>
+    <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="css/Splash_Screen.css" />
+    <script id="applicationScript" type="text/javascript" src="Splash_Screen.js"></script>
 </head>
 
 <body>
-    <div id="Sign_In">
-        <div id="inputs">
-            <label>
-			<input type="text" class="Rectangle_123"  placeholder="Usuario" Style="padding-left:45px;font-family:Roboto; font-size: 20px;"/>
-		</label>
-        </div>
-    </div>
-    <div onclick="application.goToTargetView(event)" id="Continue">
-        <svg class="Rectangle_132">
-			<rect fill="rgba(242,172,76,1)" id="Rectangle_132" rx="24" ry="24" x="0" y="0" width="295" height="48">
-			</rect>
-		</svg>
-        <div id="CONTINUE">
-            <span>INICIAR SESION</span>
-        </div>
-    </div>
-    <div id="inputs_bw">
-        <label>
-            <input type="password" class="Rectangle_123"  placeholder="Contraseña" Style="padding-left:45px; font-family:Roboto; font-size: 20px;"/>
-        </label>
-    </div>
-    <svg class="Icon_awesome_user_alt" viewBox="0 0 13 16">
-		<path fill="rgba(0,0,0,1)" id="Icon_awesome_user_alt" d="M 6.499999523162842 9 C 8.5185546875 9 10.15625 6.984375 10.15625 4.5 C 10.15625 2.015625 8.5185546875 0 6.499999523162842 0 C 4.4814453125 0 2.843749761581421 2.015625 2.843749761581421 4.5 C 2.843749761581421 6.984375 4.4814453125 9 6.499999523162842 9 Z M 9.75 10 L 8.350976943969727 10 C 7.787304401397705 10.31875038146973 7.160155773162842 10.5 6.499999523162842 10.5 C 5.839843273162842 10.5 5.21523380279541 10.31875038146973 4.649023056030273 10 L 3.249999761581421 10 C 1.454882740974426 10 0 11.79062461853027 0 14 L 0 14.5 C 0 15.328125 0.5458984375 16 1.21875 16 L 11.78124904632568 16 C 12.45410060882568 16 12.99999904632568 15.328125 12.99999904632568 14.5 L 12.99999904632568 14 C 12.99999904632568 11.79062461853027 11.54511737823486 10 9.75 10 Z">
-		</path>
-	</svg>
-    <img id="key" src="images/key.png" srcset="images/key.png 1x, images/key@2x.png 2x">
-    <div onclick="application.goToTargetView(event)" id="Continue_b">
-        <svg class="Rectangle_132_b">
-			<rect fill="rgba(242,172,76,1)" id="Rectangle_132_b" rx="24" ry="24" x="0" y="0" width="295" height="48">
-			</rect>
-		</svg>
-        <div id="CONTINUE_b">
-            <span>REGISTRARSE</span>
-        </div>
-    </div>
-    <svg class="L_nea_1" viewBox="0 0 295 2">
-		<path fill="transparent" stroke="rgba(178,121,44,1)" stroke-width="2px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="L_nea_1" d="M 0 0 L 295 0">
-		</path>
-	</svg>
-    <div id="_Sin_cuenta___Registrese__y_na">
-        <span>¿Sin cuenta? <br/>Registrese  y navegue por el tiempo</span>
-    </div>
-    <img id="Logo" src="images/Logo.png" srcset="images/Logo.png 1x, images/Logo@2x.png 2x">
+    <div id="Splash_Screen">
+        <img id="TIMEFLIX" src="images/logo.png" srcset="images/logo.png 1x, images/logo@2x.png 2x">
     </div>
 </body>
+<script>
+    setTimeout(openUrl, 1500); // Wait 5 seconds
+
+    function openUrl() {
+
+        window.open("Sign_In.html", "_top");
+
+    }
+</script>
 
 </html>

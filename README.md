@@ -1,5 +1,5 @@
 <h1> TIMEFLIX </h1>
-![alt text](https://www.google.es/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+![alt text](Logo.png)
 
 <h2> Enlace para acceder: </h2>
 https://aagpazos.github.io/Timeflix/
